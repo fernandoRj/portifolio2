@@ -1,9 +1,12 @@
-#logo {
-	background-color:#F00;
+.barraNav {
+  background-color: #D3D3D3;
+  padding-bottom: 5px; }
 
-}
+#navegacao {
+  background-color: transparent;
+  border-style: none; }
 
-#menu {
-	background-color:#00C;
-	height:100px;
-}
+#lista {
+  margin-right: 20px; }
+
+/*# sourceMappingURL=template1.css.map */
