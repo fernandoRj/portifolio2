@@ -2,11 +2,25 @@
   background-color: #D3D3D3;
   padding-bottom: 5px; }
 
-#navegacao {
+#topo {
+  background-image: url(img/img1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#jumbotron {
   background-color: transparent;
-  border-style: none; }
+  text-align: center; }
+
+#navegacao {
+  background-color: white;
+  border-style: none;
+  padding: 10px; }
 
 #lista {
   margin-right: 20px; }
+  #lista a {
+    color: black; }
 
 /*# sourceMappingURL=template1.css.map */
